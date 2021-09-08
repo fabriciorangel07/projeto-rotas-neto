@@ -1,0 +1,101 @@
+html, body {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.menu_america {
+    height: 40px;
+    border: 1px solid rgb(77, 77, 77);
+    background-color:rgb(77, 77, 77);
+    padding-bottom: 11px;
+    margin: auto;
+    font-size: 16px;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.menu_america ul {
+    list-style: none;
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.menu_america ul li{
+    display: inline;
+    text-decoration: none;
+}
+
+
+.menu_america ul li a:hover {
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+}
+
+.col {
+    justify-content: space-between;
+    padding: 16px;
+}
+.t0 a { 
+    color: white;
+    margin: 8px;
+    text-decoration: none;
+}
+
+.t1 a, .t2 a, .t3 a {
+    color: white;
+    margin: 8px;
+    text-decoration: none;
+}
+.t4 a, .t5 a{
+    color: black;
+    margin: 8px;
+    text-decoration: none;
+}
+
+.t6 a {
+    color: white;
+    margin: 8px;
+    text-decoration: none;
+}
+
+.t0{
+    border: 1px solid  transparent;
+    background-color: peru; 
+}
+
+.t1{
+    border: 1px solid transparent;
+    background-color: green;    
+}
+
+
+.t2{
+    border: 1px solid transparent;
+    background-color: rgb(253, 194, 194);    
+}
+
+.t3{
+    border: 1px solid transparent;
+    background-color: rgb(153, 178, 243);    
+}
+
+.t4{
+    border: 1px solid transparent;
+    background-color: yellow;    
+}
+
+.t5{
+    border: 1px solid transparent;
+    background-color: white;    
+}
+
+.t6 {
+    border: 1px solid transparent;
+    background-color: rgb(68, 65, 65);    
+}
