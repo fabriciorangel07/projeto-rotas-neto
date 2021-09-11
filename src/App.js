@@ -8,7 +8,7 @@ import Routes from './Components/Routes.js'
 function App() {
     return (
       <div>
-        <Routes />
+        <Routes/>
       </div>
     );
   }
