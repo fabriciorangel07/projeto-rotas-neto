@@ -1,7 +1,7 @@
 {
   "name": "trab_rotas",
   "version": "0.1.0",
-  "homepage": "/",
+  "homepage": "https://fabriciorangel07.github.io/projeto-rotas-neto/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
