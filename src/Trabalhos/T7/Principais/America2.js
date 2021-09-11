@@ -13,7 +13,7 @@ export default function Geral() {
                 <Header />               
             </header>
             <main>
-            <div className="container-geral">
+            <div className="container-america">
                 <Titulo texto = "America do Sul" />
             </div>
             </main>

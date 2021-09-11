@@ -1,10 +1,30 @@
+.container-home {
+    height: 90vh;
+    color: #ffffff;
+    max-height: 80%;
+    background-color: rgb(153, 178, 243);
+}
+
 .container-geral {
     height: 90vh;
     color: #ffffff;
-    max-height: 80%;    
+    max-height: 80%;
+    background-color: green;
 }
 
+.container-america {
+    height: 90vh;
+    color: #ffffff;
+    max-height: 80%;
+    background-color: yellow;
+}
 
+.container-pantanal {
+    height: 90vh;
+    color: #ffffff;
+    max-height: 80%;
+    background-color: rgb(105, 105, 105);
+}
 
 header {
     max-height: 10%;

@@ -10,15 +10,6 @@ export default function Geral() {
             <header>
                 <Header />               
             </header>
-            <main>
-            <div className="container-geral">
-                <Titulo texto = "Américas" />
-            </div>
-            </main>
-
-            <footer>
-                <Footer />               
-            </footer>
         </div>
 
     );
