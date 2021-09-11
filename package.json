@@ -1,7 +1,7 @@
 {
   "name": "trab_rotas",
   "version": "0.1.0",
-  "homepage": "projeto-rotas-neto/",
+  "homepage": "projeto-rotas-neto/tree/gh-pages/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
